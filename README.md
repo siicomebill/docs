@@ -1,4 +1,1 @@
-```
-#TODO Install gollum
-sudo gem install gollum
-```
+# Sii Come Bill - Magazine engine Wiki
