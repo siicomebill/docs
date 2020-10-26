@@ -12,3 +12,5 @@ Da qui verrai portato alla pagina di registrazione, compila le informazioni rich
 - Aggiungere reazioni ai post
 - Salvare i post per leggerli dopo
 - Ricevere nuovi post via email (opzionale)
+
+Al momento della registrazione sarai salvato come un nuovo **lettore** o `Reader`. Per info sui significati vai alla pagina dei [ruoli](#)
