@@ -14,3 +14,4 @@ Gli articoli vengono pubblicati dal nostro team di scrittori, mentre il resto è
 - [Creazione account](#)
 - [Gestione delle info personali](#)
 - [Dashboard](#)
+- [Ruoli](#)
